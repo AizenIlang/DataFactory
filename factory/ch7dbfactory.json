@@ -1,0 +1,9 @@
+{
+	"name": "ch7dbfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "450cb370-12e0-40b2-a51b-b9be6db246cd",
+		"tenantId": "07cc872f-b6e3-487f-834e-25eb4f34ddad"
+	}
+}
